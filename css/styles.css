@@ -7,7 +7,7 @@ h1,h2,h3 {
 }
   
 h2 {
-    color: #3046C5;
+    color: white;
 }
 
 header h2 {
@@ -33,7 +33,7 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD ;
+    background-color: #60106B
 }
 
 .tab-content {
